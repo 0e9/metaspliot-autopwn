@@ -1,3 +1,5 @@
+![autopwn](https://raw.githubusercontent.com/0e9/metaspliot-autopwn/master/1.png)
+
 ### 1. setup postgresql
 
 ```
